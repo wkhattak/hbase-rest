@@ -1,0 +1,1 @@
+java -cp C:\Users\Admin\Documents\EclipseProjects\hbase-rest\target\hbase-rest-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.khattak.bigdata.databases.hbase.HbaseRest 192.168.70.136:9090
