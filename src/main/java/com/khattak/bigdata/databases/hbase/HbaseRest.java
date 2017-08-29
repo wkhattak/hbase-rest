@@ -15,7 +15,7 @@ import org.apache.commons.httpclient.methods.*;
 import org.json.*;
 
 /*
- * Gets data from the specified table in HBase for the pst 15 minutes only by specifying a scanner filter
+ * Gets data from the specified table in HBase for the past 15 minutes only by specifying a scanner filter
  */
 public class HbaseRest {	
 	
